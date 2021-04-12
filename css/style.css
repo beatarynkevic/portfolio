@@ -215,7 +215,7 @@ header {
 .hamburger,
 .hamburger::before,
 .hamburger::after {
-    background: var(--clr-dark);
+    background: var(--clr-accent);
     width: 2em;
     height: 3px;
     border-radius: 1em;
@@ -451,7 +451,7 @@ header {
     padding: .5em;
 }
 
-@media (min-width: 320px) {
+@media (max-width: 500px) {
     .portfolio {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
