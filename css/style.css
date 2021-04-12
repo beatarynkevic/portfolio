@@ -451,7 +451,7 @@ header {
     padding: .5em;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 320px) {
     .portfolio {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
