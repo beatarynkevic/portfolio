@@ -7,6 +7,6 @@ This project purpose is to showcase my work and let others know about myself.
 
 Site published at https://beatarynkevic.github.io/portfolio/
 
-## Authors
+## Author
 
 [Beata](https://github.com/beatarynkevic)<br>
